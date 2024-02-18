@@ -6,6 +6,9 @@ Welcome to my first D3 project! This project demonstrates very basic functionali
 
 This project serves as an introduction to working with APIs and data visualization using D3.js. It fetches data from TomorrowAPI.io, which provides weather forecasts, and displays the precipitation probability for the next 24 hours in a graphical format.
 
+## Project Preview
+(images/project-preview.png)
+
 ## Features
 
 - Makes API calls to TomorrowAPI.io to retrieve weather forecast data.
