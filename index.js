@@ -90,7 +90,7 @@ const line_generator = d3.line()
 const lat = 32.7157; // latitude of San Diego, CA
 const long = 117.1611; // Longitude of San Diego, CA, USA
 
-const api_key = "PwHvDomIqy2pwSOOt6fRe55Vj53jZ66a";
+const api_key = "#{TOMORROWIO_API_KEY}";
 
 const url = `https://api.tomorrow.io/v4/timelines?location=${lat},${long}&fields=snowAccumulation,precipitationProbability,precipitationType&timesteps=1h&units=imperial&apikey=${api_key}`;
 
