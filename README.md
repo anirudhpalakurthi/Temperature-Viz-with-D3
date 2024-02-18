@@ -1,6 +1,6 @@
-# My First Project
+# Delving into Data-Driven Documents
 
-Welcome to my first project! This project demonstrates very basic functionality, making API calls to TomorrowAPI.io and visualizing the next 24 hours of precipitation probability using D3.js.
+Welcome to my first D3 project! This project demonstrates very basic functionality, making API calls to TomorrowAPI.io and visualizing the next 24 hours of precipitation probability using D3.js.
 
 ## Project Overview
 
