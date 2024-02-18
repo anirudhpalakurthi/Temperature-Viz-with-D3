@@ -25,7 +25,7 @@ To use this project, follow these steps:
 ## Dependencies
 
 - D3.js
-- TomorrowAPI.io (API key required)
+- Tomorrow.io (API key required)
 
 ## Future Enhancements
 
